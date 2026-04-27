@@ -1,0 +1,54 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            pnlihwzv4fo0ltp1rs5pajmk9vjngrg8:
+                codePath: c:\Users\Felix\Downloads\projet\PROJET.ipynb
+                codePathLocal: PROJET.ipynb
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "999527804928"
+                        used: "705842573312"
+                email: felix.paille-dowell@polymtl.ca
+                executable: c:\Users\Felix\Downloads\projet\.venv\Scripts\python.exe
+                gpu: NVIDIA GeForce RTX 2070
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 2304
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 2070
+                      uuid: GPU-0cb2b8ee-3858-51c4-c2d4-5d584fca1872
+                host: DESKTOP-BGUUS89
+                memory:
+                    total: "17102553088"
+                os: Windows-10-10.0.19045-SP0
+                program: c:\Users\Felix\Downloads\projet\PROJET.ipynb
+                python: CPython 3.12.10
+                root: c:\Users\Felix\Downloads\projet
+                startedAt: "2026-04-25T07:26:16.670428Z"
+                writerId: pnlihwzv4fo0ltp1rs5pajmk9vjngrg8
+        m: []
+        python_version: 3.12.10
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+            "4": 3.12.10
+            "5": 0.26.1
+            "8":
+                - 1
+                - 3
+            "12": 0.26.1
+            "13": windows-amd64

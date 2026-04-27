@@ -1,0 +1,36 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.10",
+  "startedAt":  "2026-04-25T07:28:35.713644Z",
+  "program":  "c:\\Users\\Felix\\Downloads\\projet\\PROJET.ipynb",
+  "codePath":  "c:\\Users\\Felix\\Downloads\\projet\\PROJET.ipynb",
+  "codePathLocal":  "PROJET.ipynb",
+  "email":  "felix.paille-dowell@polymtl.ca",
+  "root":  "c:\\Users\\Felix\\Downloads\\projet",
+  "host":  "DESKTOP-BGUUS89",
+  "executable":  "c:\\Users\\Felix\\Downloads\\projet\\.venv\\Scripts\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 2070",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "999527804928",
+      "used":  "705842044928"
+    }
+  },
+  "memory":  {
+    "total":  "17102553088"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 2070",
+      "memoryTotal":  "8589934592",
+      "cudaCores":  2304,
+      "architecture":  "Turing",
+      "uuid":  "GPU-0cb2b8ee-3858-51c4-c2d4-5d584fca1872"
+    }
+  ],
+  "cudaVersion":  "13.1",
+  "writerId":  "iezk818ugslasavv48hwbr1kwxvw7lgo"
+}
