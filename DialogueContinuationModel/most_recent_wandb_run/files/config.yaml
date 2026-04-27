@@ -1,0 +1,59 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            o4teai8pc4nu5rim14kdn2rbvazzgofk:
+                codePath: c:\Users\Sami\Documents\INF8225\8225_projet.ipynb
+                codePathLocal: 8225_projet.ipynb
+                cpu_count: 8
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "999294308352"
+                        used: "828273963008"
+                email: samijouamaa@gmail.com
+                executable: c:\Users\Sami\miniconda3\envs\transformer_env\python.exe
+                host: DESKTOP-DKUU1P3
+                memory:
+                    total: "68641923072"
+                os: Windows-10-10.0.26200-SP0
+                program: c:\Users\Sami\Documents\INF8225\8225_projet.ipynb
+                python: CPython 3.11.15
+                root: c:\Users\Sami\Documents\INF8225
+                startedAt: "2026-04-27T13:06:17.838522Z"
+                writerId: o4teai8pc4nu5rim14kdn2rbvazzgofk
+        m: []
+        python_version: 3.11.15
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 16
+            "4": 3.11.15
+            "5": 0.26.1
+            "8":
+                - 1
+                - 3
+            "12": 0.26.1
+            "13": windows-amd64
+batch_size:
+    value: 32
+d_model:
+    value: 128
+learning_rate:
+    value: 0.0001
+max_len:
+    value: 128
+n_heads:
+    value: 4
+n_layers:
+    value: 4
+patience:
+    value: 2

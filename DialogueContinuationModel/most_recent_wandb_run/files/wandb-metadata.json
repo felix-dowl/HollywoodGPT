@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-10-10.0.26200-SP0",
+  "python":  "CPython 3.11.15",
+  "startedAt":  "2026-04-27T13:06:17.838522Z",
+  "program":  "c:\\Users\\Sami\\Documents\\INF8225\\8225_projet.ipynb",
+  "codePath":  "c:\\Users\\Sami\\Documents\\INF8225\\8225_projet.ipynb",
+  "codePathLocal":  "8225_projet.ipynb",
+  "email":  "samijouamaa@gmail.com",
+  "root":  "c:\\Users\\Sami\\Documents\\INF8225",
+  "host":  "DESKTOP-DKUU1P3",
+  "executable":  "c:\\Users\\Sami\\miniconda3\\envs\\transformer_env\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "999294308352",
+      "used":  "828273963008"
+    }
+  },
+  "memory":  {
+    "total":  "68641923072"
+  },
+  "writerId":  "o4teai8pc4nu5rim14kdn2rbvazzgofk"
+}
