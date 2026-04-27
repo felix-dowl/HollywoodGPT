@@ -1,0 +1,5 @@
+PROMPT:
+title: Shadow Protocol | genres: Action, Thriller, Science Fiction | keywords: espionage, AI, betrayal, conspiracy | cast: Rebecca Ferguson, Oscar Isaac, John David Washington
+
+GENERATED SUMMARY:
+when a mysterious virus sp reads a nuclear weapons manu fac turing plant , a group of scientists are sent to investigate .

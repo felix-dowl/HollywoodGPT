@@ -1,0 +1,13 @@
+# Use tokenizer 8000
+
+vocab_size = 8_000
+max_length = 256
+model = MovieGPT(
+    vocab_size=vocab_size,
+    max_length=max_length,
+    d_model=1024,
+    n_heads=16,
+    n_layers=16,
+    d_ff=4096,
+    dropout=0.2,
+)
